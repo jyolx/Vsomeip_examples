@@ -1,0 +1,8 @@
+/home/jyolsna/Documents/vsomeip-3.4.10/Jyolsna_example/vsomeip_in_10min/build/CMakeFiles/ser.dir
+/home/jyolsna/Documents/vsomeip-3.4.10/Jyolsna_example/vsomeip_in_10min/build/CMakeFiles/cli.dir
+/home/jyolsna/Documents/vsomeip-3.4.10/Jyolsna_example/vsomeip_in_10min/build/CMakeFiles/res.dir
+/home/jyolsna/Documents/vsomeip-3.4.10/Jyolsna_example/vsomeip_in_10min/build/CMakeFiles/req.dir
+/home/jyolsna/Documents/vsomeip-3.4.10/Jyolsna_example/vsomeip_in_10min/build/CMakeFiles/pub.dir
+/home/jyolsna/Documents/vsomeip-3.4.10/Jyolsna_example/vsomeip_in_10min/build/CMakeFiles/sub.dir
+/home/jyolsna/Documents/vsomeip-3.4.10/Jyolsna_example/vsomeip_in_10min/build/CMakeFiles/edit_cache.dir
+/home/jyolsna/Documents/vsomeip-3.4.10/Jyolsna_example/vsomeip_in_10min/build/CMakeFiles/rebuild_cache.dir
